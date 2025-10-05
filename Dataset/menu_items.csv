@@ -1,0 +1,22 @@
+item_id,restaurant_id,item_name,price
+1,7,Veg Pizza,160
+2,2,Gulab Jamun,60
+3,7,Chole Bhature,115
+4,3,Chicken Biryani,230
+5,2,Samosa Chaat,65
+6,3,Fish Curry,210
+7,6,Butter Chicken,225
+8,4,Dal Tadka,85
+9,4,Hakka Noodles,110
+10,1,Paneer Tikka,125
+11,7,Aloo Paratha,95
+12,2,Momos,130
+13,1,Chicken 65,205
+14,5,Masala Dosa,130
+15,1,Paneer Butter Masala,140
+16,5,Idli Sambar,80
+17,2,Pav Bhaji,90
+18,2,Rasgulla,70
+19,1,Kadai Paneer,120
+20,4,Fried Rice,135
+21,5,Veg Biryani,155
